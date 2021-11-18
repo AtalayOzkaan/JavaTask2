@@ -19,6 +19,4 @@
                  It is defined above example.                  
  
       Language:  [Java and Java Development Kit version is openjdk-17.0.1]
-  Ex. Packages:  [There are not additional requirement]
- 
-  Deficiencies:  [There is not known bug to fix.]
+

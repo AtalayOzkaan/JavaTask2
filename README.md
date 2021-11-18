@@ -1,11 +1,6 @@
 # JavaTask2
-
-    Assignment:  Design Algorithm (Random Number Generation)
-        Author:  [Atalay Özkan (matalayozkan@gmail.com)]
  
-      Due Date:  [2021/11/19 01:40AM]
- 
-   Description:  [Design random number generator with some rules
+ Description:  [Design random number generator with some rules
                  Input:
                    a) inputDigit: Indicates how many numbers are able to generate.
                    
